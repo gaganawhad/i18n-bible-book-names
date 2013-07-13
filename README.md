@@ -1,4 +1,4 @@
 i18n-bible-book-names
 =====================
 
-Translations of Books of the Bible 
+Names of 66 books of the Bible translated into different locales
