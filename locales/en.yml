@@ -1,0 +1,135 @@
+en:
+  bible_books:
+    1:
+      name: "Genesis"
+    2:
+      name: "Exodus"
+    3:
+      name: "Leviticus"
+    4:
+      name: "Numbers"
+    5:
+      name: "Deuteronomy"
+    6:
+      name: "Joshua"
+    7:
+      name: "Judges"
+    8:
+      name: "Ruth"
+    9:
+      name: "1 Samuel"
+    10:
+      name: "2 Samuel"
+    11:
+      name: "1 Kings"
+    12:
+      name: "2 Kings"
+    13:
+      name: "1 Chronicles"
+    14:
+      name: "2 Chronicles"
+    15:
+      name: "Ezra"
+    16:
+      name: "Nehemiah"
+    17:
+      name: "Esther"
+    18:
+      name: "Job"
+    19:
+      name: "Psalms"
+    20:
+      name: "Proverbs"
+    21:
+      name: "Ecclesiastes"
+    22:
+      name: "Song of Solomon"
+    23:
+      name: "Isaiah"
+    24:
+      name: "Jeremiah"
+    25:
+      name: "Lamentations"
+    26:
+      name: "Ezekiel"
+    27:
+      name: "Daniel"
+    28:
+      name: "Hosea"
+    29:
+      name: "Joel"
+    30:
+      name: "Amos"
+    31:
+      name: "Obadiah"
+    32:
+      name: "Jonah"
+    33:
+      name: "Micah"
+    34:
+      name: "Nahum"
+    35:
+      name: "Habakkuk"
+    36:
+      name: "Zephaniah"
+    37:
+      name: "Haggai"
+    38:
+      name: "Zechariah"
+    39:
+      name: "Malachi"
+    40:
+      name: "Matthew"
+    41:
+      name: "Mark"
+    42:
+      name: "Luke"
+    43:
+      name: "John"
+    44:
+      name: "Acts"
+    45:
+      name: "Romans"
+    46:
+      name: "1 Corinthians"
+    47:
+      name: "2 Corinthians"
+    48:
+      name: "Galatians"
+    49:
+      name: "Ephesians"
+    50:
+      name: "Philippians"
+    51:
+      name: "Colossians"
+    52:
+      name: "1 Thessalonians"
+    53:
+      name: "2 Thessalonians"
+    54:
+      name: "1 Timothy"
+    55:
+      name: "2 Timothy"
+    56:
+      name: "Titus"
+    57:
+      name: "Philemon"
+    58:
+      name: "Hebrews"
+    59:
+      name: "James"
+    60:
+      name: "1 Peter"
+    61:
+      name: "2 Peter"
+    62:
+      name: "1 John"
+    63:
+      name: "2 John"
+    64:
+      name: "3 John"
+    65:
+      name: "Jude"
+    66:
+      name: "Revelation"
+
